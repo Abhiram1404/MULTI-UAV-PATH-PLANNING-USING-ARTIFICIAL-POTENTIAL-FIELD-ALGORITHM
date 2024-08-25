@@ -6,6 +6,13 @@ The obstacle avoidance mechanism of a drone has a big impact on how well it navi
 
 
 
+•UAV path planning
+A.I
+– Used python and its libraries.
+– Project is to plan the the path of drones which automatically escapes from the obstacles and reaches
+goal
+– Artificial Potential Field algorithm is used to efficiently plan the path.
+– It is used to plan the multiple Drones to Multiple goals automatically for time,energy efficiency
 
 
 Use RunSim.py.
